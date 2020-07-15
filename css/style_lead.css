@@ -1,0 +1,59 @@
+body {
+  overflow-x: hidden;
+}
+
+#page-header {
+  height: 506px;
+  background: linear-gradient(rgba(71, 70, 70, 0.1), rgba(29, 14, 14, 0.1)), url('../images/back7.jpg');
+  background-size: cover;
+  background-position: 0 -360px;
+  background-attachment: fixed;
+  color: #fff;
+  border-bottom: 1px #eee solid;
+  padding-top: 50px;
+  }
+
+.about-img {
+  margin-top: -50px;
+}
+
+#faq .card {
+  border: #444;
+}
+
+#faq a {
+  color: #fff;
+  text-decoration: none;
+}
+
+#faq .card-body,
+#faq .card-header {
+  background: #333;
+}
+
+#main-footer {
+  background: #000;
+  color: #fff;
+}
+.navbar .nav-link {
+  font-size: 14px;
+  text-transform: uppercase;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
+
+.navbar .nav-item.active
+{
+  border-left: #444 3px solid;
+}
+.service
+{
+  margin-top:-450px;
+}
+.qmark
+{
+  margin-left:225px;
+  margin-top:50px;
+  height:425px;
+  width:575px;
+}

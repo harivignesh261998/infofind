@@ -1,0 +1,68 @@
+body {
+  overflow-x: hidden;
+}
+
+#page-header {
+  height: 1205px;
+  background: linear-gradient(rgba(71, 70, 70, 0.1), rgba(29, 14, 14, 0.1)), url('../images/back5.jpg');
+  background-size: cover;
+  background-position: 0px 55px;
+  background-attachment: fixed;
+  color: #fff;
+  border-bottom: 1px #eee solid;
+  padding-top: 0px;
+  margin-top: -700px;
+}
+
+.about-img {
+  margin-top: -100px;
+}
+
+#faq .card {
+  border: #444;
+}
+
+#faq a {
+  color: #fff;
+  text-decoration: none;
+}
+
+#faq .card-body,
+#faq .card-header {
+  background: #333;
+}
+
+#main-footer {
+  background: #000;
+  color: #fff;
+}
+.wwd
+{
+  margin-top:70px;
+}
+.card-body
+{
+  height:280px;
+}
+.image
+{
+  margin-top:125px;
+}
+.about-us
+{
+  margin-top:-440px;
+}
+.navbar .nav-link {
+  font-size: 14px;
+  text-transform: uppercase;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
+
+.navbar .nav-item.active
+{
+  border-left: #444 3px solid;
+}
+.carousel-item {
+  height: 450px;
+}

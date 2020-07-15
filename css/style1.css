@@ -1,0 +1,62 @@
+.one {
+  float: right;
+  margin: 2% 30.5%;
+}
+.two {
+  float: right;
+  margin: 0% 37.5%;
+}
+.two1 {
+  float: right;
+  margin: 0% 37.2%;
+}
+
+.two2 {
+  float: right;
+  margin: 0% 37%;
+}
+
+.two3 {
+  float: right;
+  margin: 0% 36.1%;
+}
+.two4 {
+  float: right;
+  margin: 0% 33%;
+}
+.two5 {
+  float: right;
+  margin: 0% 37.5%;
+}
+.three {
+  float: right;
+  margin: 1% 2.5%;
+}
+.four {
+  float: right;
+  margin: 1% 22.5%;
+}
+.five {
+  float: right;
+  margin: 1% 10%;
+}
+.six {
+  float: right;
+  margin: 1% 41%;
+}
+
+.seven {
+  float: right;
+  margin: 1% 35.5%;
+}
+
+.eight {
+  float: right;
+  margin: 1% 40%;
+}
+.container {
+  margin: 7% 5%;
+  position: absolute;
+  display: inline-block;
+  width: 50%;
+}
